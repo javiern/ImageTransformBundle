@@ -1,4 +1,4 @@
 ImageTransformBundle
 ====================
 
-Symfony2 Bundle for ImageTransfor, "[ImageTransform](/javiern/ImageTransform)" 
+Symfony2 Bundle for ImageTransform "[ImageTransform](/javiern/ImageTransform)" 
